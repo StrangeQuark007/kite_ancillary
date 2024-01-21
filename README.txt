@@ -1,7 +1,7 @@
  ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ _
 / Welcome to the ancillary file for 'The  \
 | soaring kite: a tale of two punctured   |
-| tori'!                                  |
+| tori' (ArXiv:2401.sooon)!               |
 |                                         |
 | Authors: Mathieu Giroux, Andrzej        |
 | Pokraka, Franziska Porkert, Yoann       |
