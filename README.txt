@@ -1,4 +1,4 @@
- ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ __
+ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ _
 / Welcome to the ancillary file for 'The  \
 | soaring kite: a tale of two punctured   |
 | tori'!                                  |
@@ -12,10 +12,10 @@
 | equation expressed in both kinematic    |
 | and pullback forms . A closed form      |
 | formula for the boundary value is also  |
-| provided .                               |
+| provided .                              |
 |                                         |
 | For questions related to this file,     |
-\ contact mathieu . giroux2@mail . mcgill . ca  /
+\ contact mathieu.giroux2@mail.mcgill.ca  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
