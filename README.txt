@@ -22,3 +22,5 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
+
+* Ancillary file V0: the presentation is not fully polished and documentation will be improved soon
